@@ -1,4 +1,4 @@
-const titulo = "Our Team's Portfolio";
+const titulo = "Conheça-Nossa-Equipe";
 let index = 0;
 
 function digitarTitulo() {
